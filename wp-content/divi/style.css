@@ -20886,6 +20886,7 @@ body:not(.et_pb_pagebuilder_layout)
   display: block;
   z-index: 1;
   line-height: 0;
+  margin: 15px;
 }
 .et_pb_video_box video {
   width: 100% !important;
@@ -22856,12 +22857,12 @@ h1.et_pb_contact_main_title {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("/wp-content/2021/02/Maria-del-Pilar-Garcia-Fundabs.jpeg");
+  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721176871/maria_pilar/Maria-del-Pilar-Garcia-Fundabs_xjv5ag.jpg");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
 
-.et_pb_image_4:before {
+.et_pb_image_14:before {
   position: absolute;
   top: 5%;
   left: 15%;
@@ -22874,6 +22875,23 @@ h1.et_pb_contact_main_title {
   width: 70%; /* Ajusta el ancho de la imagen */
   height: 95%; /* Ajusta la altura de la imagen */
   background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721099867/maria_pilar/pexels-shvets-production-7176316_qjeswv.jpg");
+  background-size: contain; /* Asegura que la imagen mantenga su proporción */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.et_pb_image_13:before {
+  position: absolute;
+  top: 5%;
+  left: 15%;
+  margin: -16px 0 0 -16px;
+  font-size: 32px;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  content: "";
+  display: inline-block;
+  width: 70%; /* Ajusta el ancho de la imagen */
+  height: 95%; /* Ajusta la altura de la imagen */
+  background-image: url("/wp-content/2021/02/Maria-del-Pilar-Garcia-Fundabs.jpeg");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -22891,6 +22909,40 @@ h1.et_pb_contact_main_title {
   width: 100%; /* Ajusta el ancho de la imagen */
   height: 95%; /* Ajusta la altura de la imagen */
   background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721100151/maria_pilar/pexels-liza-summer-6382633_damibh.jpg");
+  background-size: contain; /* Asegura que la imagen mantenga su proporción */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.et_pb_image_42::before {
+  position: absolute;
+  top: 5%;
+  left: 20%;
+  margin: -16px 0 0 -16px;
+  font-size: 32px;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  content: "";
+  display: inline-block;
+  width: 100%; /* Ajusta el ancho de la imagen */
+  height: 95%; /* Ajusta la altura de la imagen */
+  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721175316/maria_pilar/pexels-henri-mathieu-8344902_kqsjsb.jpg");
+  background-size: contain; /* Asegura que la imagen mantenga su proporción */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.et_pb_image_15::before {
+  position: absolute;
+  top: 5%;
+  left: 20%;
+  margin: -16px 0 0 -16px;
+  font-size: 32px;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  content: "";
+  display: inline-block;
+  width: 100%; /* Ajusta el ancho de la imagen */
+  height: 95%; /* Ajusta la altura de la imagen */
+  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721175546/maria_pilar/pexels-pnw-prod-8276211_k6rxsg.jpg");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
