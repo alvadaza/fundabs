@@ -22879,6 +22879,23 @@ h1.et_pb_contact_main_title {
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
 
+.et_pb_image_178::before {
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  margin: -16px 0 0 -16px;
+  font-size: 32px;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  content: "";
+  display: inline-block;
+  width: 100%; /* Ajusta el ancho de la imagen */
+  height: 90%; /* Ajusta la altura de la imagen */
+  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721176871/maria_pilar/Maria-del-Pilar-Garcia-Fundabs_xjv5ag.jpg");
+  background-size: contain; /* Asegura que la imagen mantenga su proporción */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
 .et_pb_image_13:before {
   position: absolute;
   top: 5%;
