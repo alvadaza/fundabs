@@ -20614,7 +20614,7 @@ p.et_pb_gallery_caption {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -21442,7 +21442,7 @@ body:not(.et_pb_pagebuilder_layout)
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -22182,7 +22182,7 @@ ul.et_pb_tabs_controls:after {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -22196,7 +22196,7 @@ ul.et_pb_tabs_controls:after {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -22857,7 +22857,7 @@ h1.et_pb_contact_main_title {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721176871/maria_pilar/Maria-del-Pilar-Garcia-Fundabs_xjv5ag.jpg");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -22891,7 +22891,24 @@ h1.et_pb_contact_main_title {
   display: inline-block;
   width: 70%; /* Ajusta el ancho de la imagen */
   height: 95%; /* Ajusta la altura de la imagen */
-  background-image: url("/wp-content/2021/02/Maria-del-Pilar-Garcia-Fundabs.jpeg");
+  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721176871/maria_pilar/Maria-del-Pilar-Garcia-Fundabs_xjv5ag.jpg");
+  background-size: contain; /* Asegura que la imagen mantenga su proporción */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.et_pb_image_42:before {
+  position: absolute;
+  top: 5%;
+  left: 15%;
+  margin: -16px 0 0 -16px;
+  font-size: 32px;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  content: "";
+  display: inline-block;
+  width: 70%; /* Ajusta el ancho de la imagen */
+  height: 95%; /* Ajusta la altura de la imagen */
+  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721175316/maria_pilar/pexels-henri-mathieu-8344902_kqsjsb.jpg");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -22909,23 +22926,6 @@ h1.et_pb_contact_main_title {
   width: 100%; /* Ajusta el ancho de la imagen */
   height: 95%; /* Ajusta la altura de la imagen */
   background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721100151/maria_pilar/pexels-liza-summer-6382633_damibh.jpg");
-  background-size: contain; /* Asegura que la imagen mantenga su proporción */
-  background-repeat: no-repeat; /* Evita que la imagen se repita */
-}
-
-.et_pb_image_42::before {
-  position: absolute;
-  top: 5%;
-  left: 20%;
-  margin: -16px 0 0 -16px;
-  font-size: 32px;
-  -webkit-transition: all 0.4s;
-  transition: all 0.4s;
-  content: "";
-  display: inline-block;
-  width: 100%; /* Ajusta el ancho de la imagen */
-  height: 95%; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1721175316/maria_pilar/pexels-henri-mathieu-8344902_kqsjsb.jpg");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -23038,7 +23038,7 @@ h1.et_pb_contact_main_title {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -23047,7 +23047,7 @@ h1.et_pb_contact_main_title {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -23478,7 +23478,7 @@ button.et_pb_menu__icon {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -24024,7 +24024,7 @@ button.et_pb_menu__icon {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -24061,7 +24061,7 @@ button.et_pb_menu__icon {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -24071,7 +24071,7 @@ button.et_pb_menu__icon {
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -24396,7 +24396,7 @@ body.rtl.et-db:not(.et-fb-no-rtl)
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
@@ -24405,7 +24405,7 @@ body.rtl.et-db:not(.et-fb-no-rtl)
   display: inline-block;
   width: 20px; /* Ajusta el ancho de la imagen */
   height: 20px; /* Ajusta la altura de la imagen */
-  background-image: url("https://res.cloudinary.com/dl7kjajkv/image/upload/v1716428397/logopr_r6wd1m.png");
+  background-image: url("");
   background-size: contain; /* Asegura que la imagen mantenga su proporción */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
